@@ -1,0 +1,6 @@
+@API_HRE_HostAddress = http://localhost:5106
+
+GET {{API_HRE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
